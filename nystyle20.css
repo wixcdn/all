@@ -252,7 +252,7 @@ span:nth-child(8n-7) { color:hsl(355, 91%, 63%); text-shadow:1px 1px hsl(355, 91
 }
 .username1 {
    color: black;  /* Fallback: assume this color ON TOP of image */
-   background: url(img/names.gif);
+   background: url(https://cdn.jsdelivr.net/gh/wixcdn/all/br/names.gif);
    -webkit-background-clip: text;
    -webkit-text-fill-color: transparent;
           animation: swing 4s infinite;
@@ -264,7 +264,7 @@ span:nth-child(8n-7) { color:hsl(355, 91%, 63%); text-shadow:1px 1px hsl(355, 91
       }
 .mahakalnamek1 {
   color: black;  /* Fallback: assume this color ON TOP of image */
-  background: url(img/names.gif);
+  background: url(https://cdn.jsdelivr.net/gh/wixcdn/all/br/names.gif);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: swing 4s infinite;
