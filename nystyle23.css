@@ -1,7 +1,9 @@
-html, body {
-overflow-x: hidden;  /* Prevent horizontal scrolling */
-margin: 0;            /* Remove default margins that may cause overflow */
-padding: 0;           /* Remove default padding */
+main{
+  max-width: 450px;
+  min-height: 200px;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 60px;
 }
 .GodMessage {
   color: #fff;
