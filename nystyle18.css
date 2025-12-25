@@ -250,6 +250,13 @@ span:nth-child(8n-7) { color:hsl(355, 91%, 63%); text-shadow:1px 1px hsl(355, 91
     transform: rotate(-10deg);
   }
 }
+.fireworks-container {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
 .username {
   color: black;  /* Fallback: assume this color ON TOP of image */
   background: url(sname.gif);
